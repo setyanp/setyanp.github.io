@@ -194,9 +194,12 @@
 
     &.site-title {
       margin: auto;
-      width: 50%;
       text-align: center;
       font-size: 30px;
+
+      @include breakpoint($large) {
+        width: 50%;
+      }
     }
   }
 
