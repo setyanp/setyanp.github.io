@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Setyan Pamungkas"
+title                    : "- Watch the Data -"
 title_separator          : "-"
 name                     : "Setyan Pamungkas"
 description              : "Machine Learning Engineer"
